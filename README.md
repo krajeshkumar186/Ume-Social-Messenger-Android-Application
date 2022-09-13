@@ -1,5 +1,4 @@
 # Ume-Social-Messenger-Android-App
-#### This project is no longer under development or, maintained.
 
 ### features for learner / developer *(For beginners or intermediate)*-
 * RecyclerView, Tab Layout, Custom Appbar, Custom many components
